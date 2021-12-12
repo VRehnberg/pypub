@@ -1,5 +1,7 @@
 # Pypub #
 
+**Note:** *This fork is meant for a specific project and will not be maintained for generic use. Below follows the original description.*
+
 Create epub's using python. Pypub is a python library to create epub files quickly without having to worry about the intricacies of the epub specification.
 
 # Installation #
